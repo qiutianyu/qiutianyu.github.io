@@ -9,15 +9,16 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Experience"
-    url: "/#-experience"
+  - title: "Employment"
+    url: "/#-employment"
 
-  - title: "Publication"
-    url: "/#-publication"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Award"
     url: "/#-award"
 
-  # - title: "Talk"
-  #   url: "/#-talk"
+  - title: "Supervisees"
+    url: "/#-supervisees"
+
   
