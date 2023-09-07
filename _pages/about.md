@@ -16,8 +16,10 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
-{% include_relative includes/experience.md %}
+{% include_relative includes/employment.md %}
 
-{% include_relative includes/publication.md %}
+{% include_relative includes/publications.md %}
 
-{% include_relative includes/award.md %}
+{% include_relative includes/awards.md %}
+
+{% include_relative includes/supervisees.md %}
