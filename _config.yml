@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Qiu 邱添羽"
-description              : "Shenzhen Research Institute of Big Data"
+description              : ""
 repository               : "qiutianyu/qiutianyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Qiu 邱添羽"
+  name             : "Tianyu Qiu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Research Scientist"
+  bio              : "邱添羽"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
