@@ -1,4 +1,4 @@
-I am a research scientist with [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en). <img src='./images/sribd.png' style='width: 10em;'>
+I am a research scientist with [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en). <img src='./images/sribd.png' style='width: 8em;'>
 
 I am working on [Model-Based Deep Learning](https://www.weizmann.ac.il/math/yonina/sites/math.yonina/files/Model-Based_Deep_Learning_1.pdf) and [Non-Intrusive Load Monitoring](http://nilmworkshop.org). If you are seeking any form of **academic cooperation**, please feel free to email me at [tqiu@connect.ust.hk](mailto:tqiu@connect.ust.hk).
 
