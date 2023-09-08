@@ -10,4 +10,4 @@
 
 ## Conference
 
-1. *T. Qiu*, P. Babu and D. P. Palomar, "[PRIME: Phase retrieval via majorization-minimization technique](https://ieeexplore.ieee.org/abstract/document/7421435)," *2015 49th Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, 2015, pp. 1681-1685. ``Asilomar 2015``
+1. **T. Qiu**, P. Babu and D. P. Palomar, "[PRIME: Phase retrieval via majorization-minimization technique](https://ieeexplore.ieee.org/abstract/document/7421435)," *2015 49th Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, pp. 1681-1685. ``Asilomar 2015``
