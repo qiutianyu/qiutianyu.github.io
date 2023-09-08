@@ -22,4 +22,4 @@ redirect_from:
 
 {% include_relative includes/awards.md %}
 
-{% include_relative includes/supervisees.md %}
+{% include_relative includes/.md %}
