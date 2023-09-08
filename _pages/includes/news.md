@@ -1,4 +1,4 @@
-# 🔥 News
+# News
 <!-- - *202305*: 🎉 Five papers are accepted by ACL 2023
 - *202304*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+)
 - *202304*: 🎉 One paper ([Make-an-Audio](https://text-to-audio.github.io/)) is accepted by ICML 2023
