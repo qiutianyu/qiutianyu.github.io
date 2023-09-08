@@ -1,4 +1,4 @@
-# Publications
+# 📝 Publications
 
 ## Journals
 1. ``TSP 2018`` [MISO Channel Estimation and Tracking from Received Signal Strength Feedback](https://ieeexplore.ieee.org/abstract/document/8253866), **Tianyu Qiu**, Xiao Fu, Nicholas D. Sidiropoulos, Daniel P. Palomar

@@ -1,4 +1,4 @@
-# Supervisees
+# 🧑‍🎓 Supervisees
 - *2023.05.12—Present*, 周富强, Software Engineer
 - *2023.03.03—Present*, 毛经纬, Software Engineer
 - *2023.09.01—Present*, 邱烨卿, CUHKSZ-SRIBD joint PhD
