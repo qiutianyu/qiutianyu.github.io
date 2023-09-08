@@ -2,6 +2,8 @@ I am a research scientist at [Shenzhen Research Institute of Big Data](http://ww
 
 I am working on [Model-Based Deep Learning](https://www.weizmann.ac.il/math/yonina/sites/math.yonina/files/Model-Based_Deep_Learning_1.pdf) and [Non-Intrusive Load Monitoring](http://nilmworkshop.org).
 
-I also lead a small team developing real-time conputer vision applications, including detection, recognition, segmentation, etc. Please feel free to email me at [tqiu@connect.ust.hk](mailto:tqiu@connect.ust.hk) if you would like to check our prototypes or suggest any form of cooperation.
+I also lead a small team developing real-time conputer vision applications, including detection, recognition, segmentation, etc.
 
 My research interest includes **Signal Processing** and **Deep Learning**. I have published 4 papers. <a href='https://scholar.google.com/citations?hl=en&user=rgV2Ez4AAAAJ&view_op=list_works&sortby=pubdate'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqiutianyu%2Fqiutianyu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+Please feel free to email me at [tqiu@connect.ust.hk](mailto:tqiu@connect.ust.hk) if you would like to check our prototypes or suggest any form of cooperation.
