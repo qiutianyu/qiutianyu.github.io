@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    
+
   - title: "News"
     url: "/#-news"
 
@@ -15,8 +15,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Awards"
-    url: "/#-awards"
-
   - title: "Collaborators"
     url: "/#-collaborators"
+
+  - title: "Awards"
+    url: "/#awards"

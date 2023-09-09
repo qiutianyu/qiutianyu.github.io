@@ -10,8 +10,8 @@ My research interests include **Signal Processing** and **Deep Learning**. I hav
 
 ## Engineering
 
-I also lead a small engineering team developing **real-time computer vision applications**, including detection, recognition, segmentation, etc.
+I also lead a small engineering team developing **real-time computer vision applications**.
 
 ## Contact
 
-Please drop by my office at [RB313a CUHKSZ](https://www.cuhk.edu.cn/en) or email me at [tqiu@connect.ust.hk](mailto:tqiu@connect.ust.hk) if you would like to check our prototypes or to collaborate.
+Please drop by my office at [RB313a CUHKSZ](https://www.cuhk.edu.cn/en) or email me at [tqiu@connect.ust.hk](mailto:tqiu@connect.ust.hk) if you would like to collaborate.
