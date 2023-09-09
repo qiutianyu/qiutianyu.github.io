@@ -1,6 +1,4 @@
-<!-- # 🤝 Collaborators -->
-
-# Collaborators
+# 🤝 Collaborators
 
 ## Engineer
 
