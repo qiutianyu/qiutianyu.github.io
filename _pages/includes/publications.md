@@ -1,4 +1,6 @@
-# 📝 Publications
+<!-- # 📝 Publications -->
+
+# Publications
 
 ## Journals
 

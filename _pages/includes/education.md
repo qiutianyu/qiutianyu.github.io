@@ -1,4 +1,6 @@
-# 🎓 Education
+<!-- # 🎓 Education -->
+
+# Education
 
 - **PhD in Electronic and Computer Engineering**, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), 2013.8—2018.6
   - **Visiting Scholar**, [University of Minnesota Twin Cities](https://twin-cities.umn.edu/), 2016.9—2017.7
