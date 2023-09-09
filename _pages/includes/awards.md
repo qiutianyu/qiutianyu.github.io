@@ -1,5 +1,3 @@
-<!-- # 🏆 Awards -->
-
 # Awards
 
 - 深圳市海外高层次 C 类人才, Shenzhen Overseas High-Caliber Personnel Level C, 2019.6

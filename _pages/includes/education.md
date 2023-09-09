@@ -1,5 +1,3 @@
-<!-- # 🎓 Education -->
-
 # Education
 
 - **PhD in Electronic and Computer Engineering**, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), 2013.8—2018.6

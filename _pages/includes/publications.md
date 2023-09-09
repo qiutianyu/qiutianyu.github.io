@@ -1,5 +1,3 @@
-<!-- # 📝 Publications -->
-
 # Publications
 
 ## Journals

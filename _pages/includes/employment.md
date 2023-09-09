@@ -1,5 +1,3 @@
-<!-- # 💼 Employment -->
-
 # Employment
 
 - Research Scientist, [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en), 2022.9—
