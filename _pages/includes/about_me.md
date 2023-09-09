@@ -2,7 +2,7 @@
 
 ## Research
 
-I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en). <img src='./images/sribd.png' style='width: 8em;'>
+I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en). <a href='http://www.sribd.cn/en'><img src='./images/sribd.png' style='width: 8em;'></a>
 
 I am working on [Model-Based Deep Learning](https://www.weizmann.ac.il/math/yonina/model-based-deep-learning) and [Non-Intrusive Load Monitoring](http://nilmworkshop.org).
 
@@ -10,7 +10,7 @@ My research interest includes **Signal Processing** and **Deep Learning**. I hav
 
 ## Engineering
 
-I also lead a small engineering team developing _real-time conputer vision applications_, including detection, recognition, segmentation, etc.
+I also lead a small engineering team developing **real-time conputer vision applications**, including detection, recognition, segmentation, etc.
 
 ## Contact
 
