@@ -1,8 +1,8 @@
 # About Me
 
-## Research
-
 I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en). <a href='http://www.sribd.cn/en'><img src='./images/sribd.png' style='width: 8em;'></a>
+
+## Research
 
 I am working on [Model-Based Deep Learning](https://www.weizmann.ac.il/math/yonina/model-based-deep-learning) and [Non-Intrusive Load Monitoring](http://nilmworkshop.org).
 
