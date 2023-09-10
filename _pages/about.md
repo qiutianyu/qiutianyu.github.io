@@ -20,6 +20,6 @@ redirect_from:
 
 {% include_relative includes/publications.md %}
 
-{% include_relative includes/collaborators.md %}
+{% include_relative includes/people.md %}
 
 {% include_relative includes/awards.md %}
