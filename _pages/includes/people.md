@@ -1,5 +1,6 @@
 # People
 
+- 周维聪, Software Engineer, 2023.9.12–
 - 邱烨卿, CUHKSZ-SRIBD Joint PhD, 2023.9.1–
 - 郭增柱, Intern, 2023.7.13–2024.1.13
 - 倪杉杉, Intern, 2023.6.14–2023.12.31
