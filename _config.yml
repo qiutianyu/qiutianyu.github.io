@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn: true
 google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification: HCH5KLnL1a1R2DsF5R0zqwoi9EvHjGr2KwxiPDe4h8Q # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Tianyu Qiu 邱添羽"
   avatar: "images/android-chrome-512x512.png"
-  bio: "Research and Engineering"
+  bio:
   location: "Shenzhen, China"
   employer:
   pubmed:
