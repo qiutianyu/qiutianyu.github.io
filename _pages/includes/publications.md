@@ -2,7 +2,7 @@
 
 ## PhD Thesis
 
-- [Optimization Methods for Quadratic Inverse Problems: Phase Retrieval and MISO Channel Tracking](https://lbezone.hkust.edu.hk/bib/991012615563303412) `HKUST 2018`
+[Optimization Methods for Quadratic Inverse Problems: Phase Retrieval and MISO Channel Tracking](https://lbezone.hkust.edu.hk/bib/991012615563303412) `HKUST 2018`
 
 ## Journal Papers
 
