@@ -20,6 +20,8 @@ redirect_from:
 
 {% include_relative includes/publications.md %}
 
+{% include_relative includes/grants.md %}
+
 {% include_relative includes/people.md %}
 
 {% include_relative includes/honors-and-awards.md %}
