@@ -12,7 +12,7 @@ I am a research scientist at [Shenzhen Research Institute of Big Data](http://ww
 
 ## Engineering
 
-- I also lead a small engineering team developing **real-time computer vision applications**.
+- I also lead a small engineering team developing real-time computer vision and other AI applications.
 - I have filed 12 patent applications.
 
 ## Contact
