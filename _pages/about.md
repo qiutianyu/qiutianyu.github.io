@@ -20,7 +20,7 @@ redirect_from:
 
 {% include_relative includes/publications.md %}
 
-{% include_relative includes/grants.md %}
+{% include_relative includes/grants-and-contracts.md %}
 
 {% include_relative includes/people.md %}
 
