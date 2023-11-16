@@ -9,9 +9,6 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Employment"
-    url: "/#employment"
-
   - title: "Publications"
     url: "/#publications"
 

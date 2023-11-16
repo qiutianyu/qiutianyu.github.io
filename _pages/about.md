@@ -16,8 +16,6 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
-{% include_relative includes/employment.md %}
-
 {% include_relative includes/publications.md %}
 
 {% include_relative includes/grants-and-contracts.md %}
