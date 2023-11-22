@@ -1,6 +1,6 @@
 # About Me
 
-I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en).
+I am a research scientist at [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn/en).
 
 <!-- <a href='http://www.sribd.cn/en'><img src='./images/sribd.png' style='width: 8em;'></a> -->
 
