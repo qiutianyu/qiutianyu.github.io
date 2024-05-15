@@ -1,5 +1,7 @@
 # Publications
 
+<!--
+
 ## PhD Thesis
 
 [Optimization Methods for Quadratic Inverse Problems: Phase Retrieval and MISO Channel Tracking](https://lbezone.hkust.edu.hk/bib/991012615563303412) `HKUST 2018`
@@ -37,3 +39,5 @@
 1. CN202010130797.2, 基于养殖业的地方评价方法、装置、设备及存储介质<br>**邱添羽**, 周古月, 吴泽衡, 徐倩, 杨强
 1. CN202010130757.8, 养殖场风险预测方法、装置、设备及存储介质<br>**邱添羽**, 周古月, 吴泽衡, 徐倩, 杨强
 1. CN201910710509.8, 图像处理方法、装置及电子设备<br>**邱添羽**, 田先润, 吕仰铭, 李骈臻, 张伟
+
+-->

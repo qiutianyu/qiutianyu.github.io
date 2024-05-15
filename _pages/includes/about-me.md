@@ -2,9 +2,11 @@
 
 Too lazy to update.
 
-~~I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD).~~
+<!--
 
-<!-- <a href='http://www.sribd.cn/en'><img src='./images/sribd.png' style='width: 8em;'></a> -->
+I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD).
+
+<a href='http://www.sribd.cn/en'><img src='./images/sribd.png' style='width: 8em;'></a>
 
 ## Research
 
@@ -18,3 +20,5 @@ Too lazy to update.
 ## Contact
 
 Please drop by my office at [RB313a CUHKSZ](https://www.cuhk.edu.cn/en) or email me at [tqiu@connect.ust.hk](mailto:tqiu@connect.ust.hk) if you would like to collaborate.
+
+-->
