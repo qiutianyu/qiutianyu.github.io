@@ -1,6 +1,6 @@
 # About Me
 
-I am a software engineer at [SenseTime](http://www.sribd.cn/en). <a href='http://www.sribd.cn/en'><img src='./images/sensetime.png' style='width: 4em;'></a>
+I am a software engineer at [SenseTime](https://www.sensetime.com/en). <a href='https://www.sensetime.com/en'><img src='./images/sensetime.png' style='width: 6em;'></a>
 
 <!--
 ## Research
