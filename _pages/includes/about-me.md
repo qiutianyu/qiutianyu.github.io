@@ -1,13 +1,10 @@
 # About Me
 
-Too lazy to update.
+I am a software engineer at [SenseTime](http://www.sribd.cn/en).
+
+<a href='http://www.sribd.cn/en'><img src='./images/sensetime.png' style='width: 8em;'></a>
 
 <!--
-
-I am a research scientist at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD).
-
-<a href='http://www.sribd.cn/en'><img src='./images/sribd.png' style='width: 8em;'></a>
-
 ## Research
 
 - I am working on [Model-Based Deep Learning](https://www.weizmann.ac.il/math/yonina/model-based-deep-learning) and [Non-Intrusive Load Monitoring](http://nilmworkshop.org).
