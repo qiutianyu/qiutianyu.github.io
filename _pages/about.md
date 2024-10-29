@@ -12,14 +12,6 @@ redirect_from:
 
 {% include_relative includes/about-me.md %}
 
-<!-- {% include_relative includes/news.md %} -->
-
 {% include_relative includes/education.md %}
 
 {% include_relative includes/publications.md %}
-
-<!-- {% include_relative includes/grants-and-contracts.md %}
-
-{% include_relative includes/people.md %}
-
-{% include_relative includes/honors-and-awards.md %} -->
